@@ -64,6 +64,8 @@ The `QCat=0_0_true_trueNot_true_true_true` means the question is generated from 
  - [new_data_generation_NonNegationRule-D5.py] - The question needed to be derived by five rules, all of them are the non-negation rules.
  - [new_data_generation_NonNegationRule-animal-D5.py] - The question with animal entities needed to be derived by five rules includes the non-negation rules.
  
+ [shuffle_data.py] - The generated data is shuffled by this scripts.
+ 
 # Other links
 The PARARULE dataset is from that paper.
  [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867). 

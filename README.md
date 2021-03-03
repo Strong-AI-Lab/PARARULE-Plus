@@ -7,7 +7,7 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 ## PARARULE Plus
 <img src="./image/data-distribution.PNG" width="300" />
 
-## PARARULE Plus
+## PARARULE
 
 
 # Example

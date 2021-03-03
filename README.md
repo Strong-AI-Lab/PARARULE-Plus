@@ -8,7 +8,7 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 <img src="./image/data-distribution.PNG" width="300" />
 
 ## PARARULE
-<img src="./image/pararule_depth_distribution.PNG" width="300" />
+<img src="./image/pararule_depth_distribution.png" width="300" />
 
 # Example
 ## An example with the non-negation rules for Depth=2 means the question needed to be derived by two rules.

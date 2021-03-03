@@ -1,6 +1,6 @@
 # PARARULE Plus
 The new generated dataset for PARARULE. It is generated based on the closed-world assumption.
-PARARULE Plus is an improvement on the dataset of PARARULE (Peter Clark et al., 2020). The motivation is to generate deeper PARARULE training samples. We add more training samples for the case where the depth is greater than or equal to 2 to explore whether Transformer has reasoning ability.
+PARARULE Plus is a deep multi-step reasoning dataset over natural language. It can be seen as an improvement on the dataset of PARARULE (Peter Clark et al., 2020). The motivation is to generate deeper PARARULE training samples. We add more training samples for the case where the depth is greater than or equal to 2 to explore whether Transformer has reasoning ability.
 
 # PARARULE Plus Data distribution
 For each depth dataset, we have more than 100,000 datasets to be used, much larger than the same depth in PARARULE.
@@ -70,7 +70,7 @@ The `QCat=0_0_true_trueNot_true_true_true` means the question is generated from 
 ## Citation
 ```
 @unpublished{
-  title={PARARULE Plus: A Larger Deep Multi-Step Reasoning Dataset},
+  title={PARARULE Plus: A Larger Deep Multi-Step Reasoning Dataset over Natural Language},
   author={Qiming Bao},
   year={2021}
 }

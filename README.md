@@ -12,7 +12,7 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 
 # Examples
 ## An example with the non-negation rules for Depth=2 means the question needed to be derived by two rules.
-<img src="./image/NonNegationRule-D2-1.PNG" width="500" />
+<img src="./image/NonNegationRule-D2-1.PNG" width="520" />
 The `QCat=0` means the question is generated from non-negation rules and the label is `true`. If the `QCat=0_0`, it means the question is generated from non-negation rules and the label is `false`.
 
 ## An example with the negation rules for Depth=2 means the question needed to be derived by two rules.

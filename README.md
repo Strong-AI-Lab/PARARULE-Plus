@@ -70,7 +70,7 @@ The `QCat=0_0_true_trueNot_true_true_true` means the question is generated from 
 ## Citation
 ```
 @unpublished{
-  title={PARARULE Plus: A Deeper and Larger Multi-Step Reasoning Dataset},
+  title={PARARULE Plus: A Larger Deep Multi-Step Reasoning Dataset},
   author={Qiming Bao},
   year={2021}
 }

@@ -17,6 +17,28 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 ## An example with the negation rules for Depth=2 means the question needed to be derived by two rules.
 <img src="./image/NegationRule-D2-1.PNG" width="450" />
 
+## Detail for the data generation scripts
+##### Depth=2
+ - [new_data_generation_NegationRule-D2.py] - The question needed to be derived by two rules, part of them are the negation rules.
+ - [new_data_generation_NegationRule-animal-D2.py] - The question with animal entities needed to be derived by two rules includes the negation rules.
+ - [new_data_generation_NonNegationRule-D2.py] - The question needed to be derived by two rules, all of them are the non-negation rules.
+ - [new_data_generation_NonNegationRule-animal-D2.py] - The question with animal entities needed to be derived by two rules includes the non-negation rules.
+##### Depth=3
+ - [new_data_generation_NegationRule-D3.py] - The question needed to be derived by three rules, part of them are the negation rules.
+ - [new_data_generation_NegationRule-animal-D3.py] - The question with animal entities needed to be derived by three rules includes the negation rules.
+ - [new_data_generation_NonNegationRule-D3.py] - The question needed to be derived by three rules, all of them are the non-negation rules.
+ - [new_data_generation_NonNegationRule-animal-D3.py] - The question with animal entities needed to be derived by three rules includes the non-negation rules.
+##### Depth=4
+ - [new_data_generation_NegationRule-D4.py] - The question needed to be derived by four rules, part of them are the negation rules.
+ - [new_data_generation_NegationRule-animal-D4.py] - The question with animal entities needed to be derived by four rules includes the negation rules.
+ - [new_data_generation_NonNegationRule-D4.py] - The question needed to be derived by four rules, all of them are the non-negation rules.
+ - [new_data_generation_NonNegationRule-animal-D4.py] - The question with animal entities needed to be derived by four rules includes the non-negation rules.
+##### Depth=5
+ - [new_data_generation_NegationRule-D5.py] - The question needed to be derived by five rules, part of them are the negation rules.
+ - [new_data_generation_NegationRule-animal-D5.py] - The question with animal entities needed to be derived by five rules includes the negation rules.
+ - [new_data_generation_NonNegationRule-D5.py] - The question needed to be derived by five rules, all of them are the non-negation rules.
+ - [new_data_generation_NonNegationRule-animal-D5.py] - The question with animal entities needed to be derived by five rules includes the non-negation rules.
+ 
 # Other links
 The PARARULE dataset is from that paper.
  [Transformers as Soft Reasoners over Language](https://arxiv.org/abs/2002.05867). 

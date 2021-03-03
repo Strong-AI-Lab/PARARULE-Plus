@@ -83,5 +83,17 @@ The PARARULE dataset is from that paper.
 The online demo for PARARULE.
 https://rule-reasoning.apps.allenai.org/
 
-PARARULE
+PARARULE dataset
 https://allenai.org/data/ruletaker
+
+ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language
+https://arxiv.org/pdf/2012.13048.pdf
+
+PRover: Proof Generation for Interpretable Reasoning over Rules
+https://arxiv.org/abs/2010.02830
+
+Measuring Systematic Generalization in Neural Proof Generation with Transformers
+https://arxiv.org/pdf/2009.14786.pdf
+
+Investigating the Limitations of the Transformers with Simple Arithmetic Tasks
+http://arxiv.org/abs/2102.13019v1

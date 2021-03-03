@@ -5,10 +5,10 @@ PARARULE Plus is an improvement on the dataset of PARARULE (Peter Clark, 2020). 
 # PARARULE Plus Data distribution
 For each depth dataset, we have more than 100,000 datasets to be used, much larger than the same depth in PARARULE.
 ## PARARULE Plus
-<img src="./image/data-distribution.PNG" width="300" />
+<div align=center><img src="./image/data-distribution.PNG" width="300" /></div>
 
 ## PARARULE
-<img src="./image/pararule_depth_distribution.png" width="300" />
+<div align=center><img src="./image/pararule_depth_distribution.png" width="300" /></div>
 
 # Example
 ## An example with the non-negation rules for Depth=2 means the question needed to be derived by two rules.

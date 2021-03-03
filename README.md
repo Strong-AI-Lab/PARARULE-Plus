@@ -10,7 +10,7 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 ## PARARULE
 <div align=center><img src="./image/pararule_depth_distribution.png" width="300" /></div>
 
-# Example
+# Examples
 ## An example with the non-negation rules for Depth=2 means the question needed to be derived by two rules.
 <img src="./image/NonNegationRule-D2-1.PNG" width="500" />
 The `QCat=0` means the question is generated from non-negation rules and the label is `true`. If the `QCat=0_0`, it means the question is generated from non-negation rules and the label is `false`.

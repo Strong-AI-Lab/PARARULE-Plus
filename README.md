@@ -43,6 +43,7 @@ The `QCat=0_true_trueNot_true_true_true` means the question is generated from on
 The `QCat=0_0_true_trueNot_true_true_true` means the question is generated from one positive rule and another positive rule `and` a negation rule and three more positive rules and the label is `false`. 
 
 ## Detail for the data generation scripts
+### Scripts
 ##### Depth=2
  - [new_data_generation_NegationRule-D2.py] - The question needed to be derived by two rules, part of them are the negation rules.
  - [new_data_generation_NegationRule-animal-D2.py] - The question with animal entities needed to be derived by two rules includes the negation rules.

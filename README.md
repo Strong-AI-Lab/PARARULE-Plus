@@ -3,7 +3,7 @@ The new generated dataset for PARARULE. It is generated based on the closed-worl
 PARARULE Plus is a deep multi-step reasoning dataset over natural language. It can be seen as an improvement on the dataset of PARARULE (Peter Clark et al., 2020). The motivation is to generate deeper PARARULE training samples. We add more training samples for the case where the depth is greater than or equal to two to explore whether Transformer has reasoning ability.
 
 |The Num of Entities|The Num of Relationships|The Num of Attributes|
-|:---|:----:|:----:|:----:|
+|:---|:----:|:----:|
 |23|7|30|
 
 

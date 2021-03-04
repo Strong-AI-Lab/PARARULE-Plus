@@ -5,13 +5,13 @@ PARARULE Plus is a deep multi-step reasoning dataset over natural language. It c
 # PARARULE Plus Data distribution
 For each depth dataset, we have more than 100,000 datasets to be used, much larger than the same depth in PARARULE.
 ## PARARULE Plus
-<div align=center>
+
 |Model|Average Eval_accuracy by three times|Range of change|
 |:---|:---|:---|
 |BERT baseline model|0.7686|(-0.0073, +0.0057)|
 |HDBA model|**0.8146**|(-0.0082, +0.0098)|
 |Bi-LSTM + Attention model|0.8043|(-0.0103, +0.0062)|
-</div>
+
 
 
 

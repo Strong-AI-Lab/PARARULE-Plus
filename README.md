@@ -4,7 +4,9 @@ PARARULE Plus is a deep multi-step reasoning dataset over natural language. It c
 
 `Animal Entities` ['the bald eagle', 'the tiger', 'the bear', 'the lion', 'the wolf', 'the crocodile', 'the dinosaur', 'the snake', 'the leopard',
 'the cat', 'the dog', 'the mouse', 'the rabbit', 'the squirrel']
+
 `People Entities` ['Anne', 'Alan', 'Bob', 'Charlie', 'Dave', 'Erin', 'Harry', 'Gary', 'Fiona']
+
 `Relationship` ['is', 'likes', 'chases', 'needs', 'visits', 'attacks', 'sees']
 
 |The Num of Entities|The Num of Relationships|The Num of Attributes|

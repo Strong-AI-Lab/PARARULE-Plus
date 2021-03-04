@@ -16,6 +16,10 @@ PARARULE Plus is a deep multi-step reasoning dataset over natural language. It c
 
 `Animal Attributes-4` = ['big', 'strong', 'awful', 'fierce', 'heavy', 'horrible', 'powerful', 'angry']
 
+|The Num of Animal Entities|The Num of Animal Relationships|The Num of Animal Attributes|
+|:----:|:----:|:----:|
+|14|7|28|
+
 ## People
 `People Entities` ['Anne', 'Alan', 'Bob', 'Charlie', 'Dave', 'Erin', 'Harry', 'Gary', 'Fiona']
 
@@ -30,9 +34,9 @@ PARARULE Plus is a deep multi-step reasoning dataset over natural language. It c
 `People Attributes-4` = ['poor', 'dull', 'rough', 'bad', 'sad']
 
 
-|The Num of Entities|The Num of Relationships|The Num of Attributes|
+|The Num of People Entities|The Num of People Relationships|The Num of People Attributes|
 |:----:|:----:|:----:|
-|23|7|30|
+|9|1|20|
 
 
 ## PARARULE Plus Data distribution

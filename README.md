@@ -86,10 +86,10 @@ The `QCat=0` means the question is generated from non-negation rules and the lab
 <img src="./image/NegationRule-D4-1-2.PNG" width="400" />
 
 ### An example with the non-negation rules for Depth=5 means the question needed to be derived by five rules.
-<img src="./image/NonNegationRule-Animal-D5-1.PNG" width="550" />
+<img src="./image/NonNegationRule-Animal-D5-1.PNG" width="600" />
 
 ### An example with the negation rules for Depth=5 means the question needed to be derived by five rules.
-<img src="./image/NegationRule-Animal-D5-1.PNG" width="450" />
+<img src="./image/NegationRule-Animal-D5-1.PNG" width="600" />
 
 #### Depth=2
 The `QCat=0_not_notTrue` means the question is generated from one negation rule and another negation rule `and` a positive rule and the label is `true`. 

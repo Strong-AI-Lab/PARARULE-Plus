@@ -14,6 +14,17 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 |Depth=5|100000|20000|2000|
 
 ## PARARULE
+
+|Dataset|Train|Dev|Test|
+|:---|:----:|:----:|:----:|
+|Depth=0|184721|26453|52907|
+|Depth=1|92138|13136|26457|
+|Depth=2|38221|5503|10936|
+|Depth=3|19614|2817|5633|
+|Depth=4|7895|1106|2263|
+|Depth=5|7091|1006|2026|
+|Paraphrased|28010|4004|8008|
+
 <div align=center><img src="./image/pararule_depth_distribution.png" width="300" /></div>
 
 # Examples

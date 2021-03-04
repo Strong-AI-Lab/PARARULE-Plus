@@ -13,6 +13,7 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 |Depth=4|100000|20000|2000|
 |Depth=5|100000|20000|2000|
 
+<!--<img src="./image/data-distribution.PNG" width="300" />-->
 ## PARARULE
 
 |Dataset|Train|Dev|Test|
@@ -25,7 +26,7 @@ For each depth dataset, we have more than 100,000 datasets to be used, much larg
 |Depth=5|7091|1006|2026|
 |Paraphrased|28010|4004|8008|
 
-<div align=center><img src="./image/pararule_depth_distribution.png" width="300" /></div>
+<!--<div align=center><img src="./image/pararule_depth_distribution.png" width="300" /></div>-->
 
 # Examples
 ## An example with the non-negation rules for Depth=2 means the question needed to be derived by two rules.

@@ -86,7 +86,7 @@ The `QCat=0` means the question is generated from non-negation rules and the lab
 <img src="./image/NegationRule-D4-1-2.PNG" width="450" />
 
 ### An example with the non-negation rules for Depth=5 means the question needed to be derived by five rules.
-<img src="./image/NonNegationRule-D2-1-2.PNG" width="550" />
+<img src="./image/NonNegationRule-Animal-D5-1.PNG" width="550" />
 
 ### An example with the negation rules for Depth=5 means the question needed to be derived by five rules.
 <img src="./image/NegationRule-Animal-D5-1.PNG" width="450" />

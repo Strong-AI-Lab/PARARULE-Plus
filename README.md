@@ -2,12 +2,31 @@
 The new generated dataset for PARARULE. It is generated based on the closed-world assumption.
 PARARULE Plus is a deep multi-step reasoning dataset over natural language. It can be seen as an improvement on the dataset of PARARULE (Peter Clark et al., 2020). The motivation is to generate deeper PARARULE training samples. We add more training samples for the case where the depth is greater than or equal to two to explore whether Transformer has reasoning ability.
 
-`Animal Entities` ['the bald eagle', 'the tiger', 'the bear', 'the lion', 'the wolf', 'the crocodile', 'the dinosaur', 'the snake', 'the leopard',
-'the cat', 'the dog', 'the mouse', 'the rabbit', 'the squirrel']
+`Animal Entities` ['the bald eagle', 'the tiger', 'the bear', 'the lion', 'the wolf', 'the crocodile', 'the dinosaur', 'the snake', 'the leopard']
+
+`Animal Entities-2` ['the cat', 'the dog', 'the mouse', 'the rabbit', 'the squirrel']
 
 `People Entities` ['Anne', 'Alan', 'Bob', 'Charlie', 'Dave', 'Erin', 'Harry', 'Gary', 'Fiona']
 
-`Relationship` ['is', 'likes', 'chases', 'needs', 'visits', 'attacks', 'sees']
+`People Relationship` ['is']
+
+`Animal Relationship` ['is', 'likes', 'chases', 'needs', 'visits', 'attacks', 'sees']
+
+`People Attributes-1` ['big', 'strong', 'high', 'huge']
+
+`People Attributes-2` ['short', 'thin', 'small', 'little', 'tiny']
+
+`People Attributes-3` ['wealthy', 'smart', 'nice', 'quiet', 'kind', 'clever']
+
+`People Attributes-4` = ['poor', 'dull', 'rough', 'bad', 'sad']
+
+`Animal Attributes-1` ['kind', 'quiet', 'round', 'nice', 'smart', 'clever']
+
+`Animal Attributes-2` ['dull', 'rough', 'lazy', 'slow', 'sleepy', 'boring', 'tired', 'reckless']
+
+`Animal Attributes-3` ['furry', 'small', 'cute', 'lovely', 'beautiful', 'funny']
+
+`Animal Attributes-4` = ['big', 'strong', 'awful', 'fierce', 'heavy', 'horrible', 'powerful', 'angry']
 
 |The Num of Entities|The Num of Relationships|The Num of Attributes|
 |:----:|:----:|:----:|

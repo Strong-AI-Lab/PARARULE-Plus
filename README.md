@@ -173,3 +173,6 @@ http://arxiv.org/abs/2102.13019v1
 
 Compressive Transformers for Long-Range Sequence Modelling
 https://arxiv.org/abs/1911.05507
+
+HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering
+https://www.aclweb.org/anthology/D18-1259.pdf

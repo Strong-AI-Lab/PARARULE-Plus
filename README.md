@@ -174,6 +174,9 @@ https://arxiv.org/pdf/2009.14786.pdf
 Investigating the Limitations of the Transformers with Simple Arithmetic Tasks
 http://arxiv.org/abs/2102.13019v1
 
+NATURALPROOFS: Mathematical Theorem Proving in Natural Language
+https://arxiv.org/pdf/2104.01112.pdf
+
 Compressive Transformers for Long-Range Sequence Modelling
 https://arxiv.org/abs/1911.05507
 

@@ -159,6 +159,9 @@ https://rule-reasoning.apps.allenai.org/
 PARARULE dataset
 https://allenai.org/data/ruletaker
 
+Explaining Answers with Entailment Trees
+https://arxiv.org/pdf/2104.08661.pdf
+
 ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language
 https://arxiv.org/pdf/2012.13048.pdf
 

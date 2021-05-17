@@ -177,6 +177,9 @@ http://arxiv.org/abs/2102.13019v1
 NATURALPROOFS: Mathematical Theorem Proving in Natural Language
 https://arxiv.org/pdf/2104.01112.pdf
 
+Graph-to-Tree Learning for Solving Math Word Problems
+https://www.aclweb.org/anthology/2020.acl-main.362.pdf
+
 Natural Language Premise Selection: Finding Supporting Statements for Mathematical Text
 https://arxiv.org/pdf/2004.14959.pdf
 

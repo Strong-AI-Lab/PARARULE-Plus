@@ -177,6 +177,18 @@ http://arxiv.org/abs/2102.13019v1
 NATURALPROOFS: Mathematical Theorem Proving in Natural Language
 https://arxiv.org/pdf/2104.01112.pdf
 
+Natural Language Premise Selection: Finding Supporting Statements for Mathematical Text
+https://arxiv.org/pdf/2004.14959.pdf
+
+Learning To Prove From Synthetic Theorems
+https://arxiv.org/pdf/2006.11259.pdf
+
+Are Pretrained Language Models Symbolic Reasoners Over Knowledge?
+https://arxiv.org/pdf/2006.10413.pdf
+
+Facts as Experts: Adaptable and Interpretable Neural Memory over Symbolic Knowledge
+https://arxiv.org/pdf/2007.00849.pdf
+
 Compressive Transformers for Long-Range Sequence Modelling
 https://arxiv.org/abs/1911.05507
 

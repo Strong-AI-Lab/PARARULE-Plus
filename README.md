@@ -197,3 +197,6 @@ https://arxiv.org/abs/1911.05507
 
 HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering
 https://www.aclweb.org/anthology/D18-1259.pdf
+
+Applying the Closed World Assumption to SUMO-based FOL Ontologies for Effective Commonsense Reasoning
+http://ecai2020.eu/papers/1076_paper.pdf

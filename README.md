@@ -200,3 +200,6 @@ https://www.aclweb.org/anthology/D18-1259.pdf
 
 Applying the Closed World Assumption to SUMO-based FOL Ontologies for Effective Commonsense Reasoning
 http://ecai2020.eu/papers/1076_paper.pdf
+
+Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge
+https://arxiv.org/pdf/2006.06609.pdf

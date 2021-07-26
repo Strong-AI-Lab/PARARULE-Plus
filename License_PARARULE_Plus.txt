@@ -6,5 +6,4 @@ The above copyright notices and this permission notice shall be included in all 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-If the software is used in work resulting in an academic paper or any other publication, the following credit shall be included in the publication unless written permission to omit or modify it is obtained from Tim Hartill: "Thanks to Tim Hartill for development of the PARARULE Plus dataset and permission to freely utilise it."
-
+If the software is used in work resulting in an academic paper or any other publication, the following credit shall be included in the publication unless written permission to omit or modify it is obtained from Qiming Bao: "Thanks to Qiming Bao for development of the PARARULE Plus dataset and permission to freely utilise it."

@@ -168,6 +168,9 @@ https://arxiv.org/pdf/2012.13048.pdf
 PRover: Proof Generation for Interpretable Reasoning over Rules
 https://arxiv.org/abs/2010.02830
 
+Neural Unification for Logic Reasoning over Natural Language
+https://www.researchgate.net/profile/Gabriele-Picco-2/publication/354653211_Neural_Unif[…]-Unification-for-Logic-Reasoning-over-Natural-Language.pdf
+
 Measuring Systematic Generalization in Neural Proof Generation with Transformers
 https://arxiv.org/pdf/2009.14786.pdf
 

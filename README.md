@@ -40,15 +40,15 @@ PARARULE Plus is a deep multi-step reasoning dataset over natural language. It c
 
 
 ## PARARULE Plus Data distribution
-For each depth dataset, we have more than 100,000 datasets to be used, much larger than the same depth in PARARULE.
+For each depth dataset, we have around 90,000 datasets to be used, much larger than the same depth in PARARULE.
 ### PARARULE Plus
 
 |Dataset|Train|Dev|Test|
 |:---|:----:|:----:|:----:|
-|Depth=2|100000|20000|2000|
-|Depth=3|100000|20000|2000|
-|Depth=4|100000|20000|2000|
-|Depth=5|100000|20000|2000|
+|Depth=2|89952|16204|2708|
+|Depth=3|90016|16154|2694|
+|Depth=4|90010|16150|2704|
+|Depth=5|90022|16150|2692|
 
 <!--<img src="./image/data-distribution.PNG" width="300" />-->
 ### PARARULE

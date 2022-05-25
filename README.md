@@ -1,6 +1,6 @@
 # PARARULE Plus
 The new generated dataset for PARARULE. It is generated based on the closed-world assumption.
-PARARULE Plus is a deep multi-step reasoning dataset over natural language. It can be seen as an improvement on the dataset of PARARULE (Peter Clark et al., 2020). The motivation is to generate deeper PARARULE training samples. We add more training samples for the case where the depth is greater than or equal to two to explore whether Transformer has reasoning ability. PARARULE Plus is a combination of two types of entities, `animals` and `people`, and corresponding relationships and attributes. From the depth of 2 to the depth of 5, we have around 100,000 samples in the depth of each layer, and there are a total of nearly 400,000 samples.
+PARARULE Plus is a deep multi-step reasoning dataset over natural language. It can be seen as an improvement on the dataset of PARARULE (Peter Clark et al., 2020). The motivation is to generate deeper PARARULE training samples. We add more training samples for the case where the depth is greater than or equal to two to explore whether Transformer has reasoning ability. PARARULE Plus is a combination of two types of entities, `animals` and `people`, and corresponding relationships and attributes. From the depth of 2 to the depth of 5, we have around 100,000 samples in the depth of each layer, and there are nearly 400,000 samples in total.
 ## Animals
 `Animal Entities` ['the bald eagle', 'the tiger', 'the bear', 'the lion', 'the wolf', 'the crocodile', 'the dinosaur', 'the snake', 'the leopard']
 

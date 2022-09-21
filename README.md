@@ -141,10 +141,11 @@ The `QCat=0_0_true_trueNot_true_true_true` means the question is generated from 
 
 ## Citation
 ```
-@unpublished{
-  title={PARARULE Plus: A Larger Deep Multi-Step Reasoning Dataset over Natural Language},
-  author={Qiming Bao},
-  year={2021}
+@InProceedings{
+  title={Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation},
+  author={Qiming Bao, Alex Yuxuan Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu},
+  year={2022},
+  publisher={The 2nd International Joint Conference on Learning & Reasoning and 16th International Workshop on Neural-Symbolic Learning and Reasoning (IJCLR-NeSy 2022)}
 }
 ```
 

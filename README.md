@@ -13,7 +13,7 @@ pip install datasets
 ### 🤗 Load the PARARULE-Plus dataset
 ```
 from datasets import load_dataset
-dataset = load_dataset("qbao775/PARARULE-Plus")
+dataset = load_dataset("qbao775/PARARULE-Plus")  ## You can use "qbao775/PARARULE-Plus-Depth-2", "qbao775/PARARULE-Plus-Depth-3", "qbao775/PARARULE-Plus-Depth-4", and "qbao775/PARARULE-Plus-Depth-5" to load datasets from different reasoning depths.
 ```
 
 ## PARARULE-Plus Dataset Description

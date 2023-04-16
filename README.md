@@ -17,7 +17,7 @@ dataset = load_dataset("qbao775/PARARULE-Plus")
 ```
 
 ## Dataset Description
-## Animals
+### Animals
 `Animal Entities` ['the bald eagle', 'the tiger', 'the bear', 'the lion', 'the wolf', 'the crocodile', 'the dinosaur', 'the snake', 'the leopard']
 
 `Animal Entities-2` ['the cat', 'the dog', 'the mouse', 'the rabbit', 'the squirrel']
@@ -36,7 +36,7 @@ dataset = load_dataset("qbao775/PARARULE-Plus")
 |:----:|:----:|:----:|
 |14|7|28|
 
-## People
+### People
 `People Entities` ['Anne', 'Alan', 'Bob', 'Charlie', 'Dave', 'Erin', 'Harry', 'Gary', 'Fiona']
 
 `People Relationship` ['is']

@@ -12,16 +12,16 @@ conda activate pararule-plus
 git clone https://github.com/Strong-AI-Lab/PARARULE-Plus.git
 cd PARARULE-Plus
 ```
+
+### 🤗 Install the datasets and other requirements
+```
+pip install -r requirements
+```
 You also need to install apex, you can following the steps if you are using the Linux system.
 ```
 git clone https://github.com/NVIDIA/apex
 cd apex
 pip install -v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
-```
-
-### 🤗 Install the datasets and other requirements
-```
-pip install -r requirements
 ```
 
 ### 🤗 Load the PARARULE-Plus dataset

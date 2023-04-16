@@ -5,15 +5,35 @@ PARARULE Plus is a deep multi-step reasoning dataset over natural language. It c
 We published the PARARULE Plus dataset to the paper [Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation](https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2022/paper15.pdf). The code and experiment in this paper can be found in that [GitHub link](https://github.com/Strong-AI-Lab/Multi-Step-Deductive-Reasoning-Over-Natural-Language). [PARARULE-Plus](https://github.com/Strong-AI-Lab/PARARULE-Plus) has also been collected by [LogiTorch](https://www.logitorch.ai/) which is a PyTorch-based library for logical reasoning on natural language.
 
 You can use `Huggingdace/Datasets` to load the PARARULE-Plus dataset from this [link](https://huggingface.co/datasets/qbao775/PARARULE-Plus). We upload `PARARULE-Plus`, `PARARULE-Plus-Depth-2`, `PARARULE-Plus-Depth-3`, `PARARULE-Plus-Depth-4`, and `PARARULE-Plus-Depth-5` to the `Huggingface/Datasets`. `PARARULE-Plus` includes the datasets from all four different depths and the other datasets only include the dataset corresponding to each depth. For example, `PARARULE-Plus-Depth-2` only includes the datasets with 2 reasoning depths.  Here is an example to load the PARARULE-Plus with all reasoning depths.
-### 🤗 Install the datasets
+### Create a virtual environment
 ```
-pip install datasets
+conda create -n pararule-plus python=3.8
+conda activate pararule-plus
+git clone https://github.com/Strong-AI-Lab/PARARULE-Plus.git
+cd PARARULE-Plus
+```
+
+### 🤗 Install the datasets and other requirements
+```
+pip install -r requirements
 ```
 
 ### 🤗 Load the PARARULE-Plus dataset
 ```
 from datasets import load_dataset
 dataset = load_dataset("qbao775/PARARULE-Plus")  ## You can use "qbao775/PARARULE-Plus-Depth-2", "qbao775/PARARULE-Plus-Depth-3", "qbao775/PARARULE-Plus-Depth-4", and "qbao775/PARARULE-Plus-Depth-5" to load datasets from different reasoning depths.
+```
+
+### An example script to load PARARULE-Plus and fine-tune BERT
+```
+python run_glue_no_trainer.py \
+  --model_name_or_path bert-base-cased \
+  --task_name qbao775/PARARULE-Plus\
+  --max_length 256 \
+  --per_device_train_batch_size 32 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 3 \
+  --output_dir /tmp/PARARULE-Plus/
 ```
 
 ## PARARULE-Plus Dataset Description

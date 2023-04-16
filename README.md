@@ -4,7 +4,7 @@ PARARULE Plus is a deep multi-step reasoning dataset over natural language. It c
 
 We published the PARARULE Plus dataset to the paper [Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation](https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2022/paper15.pdf). The code and experiment in this paper can be found in that [GitHub link](https://github.com/Strong-AI-Lab/Multi-Step-Deductive-Reasoning-Over-Natural-Language). [PARARULE-Plus](https://github.com/Strong-AI-Lab/PARARULE-Plus) has also been collected by [LogiTorch](https://www.logitorch.ai/) which is a PyTorch-based library for logical reasoning on natural language.
 
-You can use `Huggingdace/Datasets` to load the PARARULE-Plus dataset from this [link](https://huggingface.co/datasets/qbao775/PARARULE-Plus). Here is the way to load the dataset.
+You can use `Huggingdace/Datasets` to load the PARARULE-Plus dataset from this [link](https://huggingface.co/datasets/qbao775/PARARULE-Plus). We upload `PARARULE-Plus`, `PARARULE-Plus-Depth-2`, `PARARULE-Plus-Depth-3`, `PARARULE-Plus-Depth-4`, and `PARARULE-Plus-Depth-5` to the `Huggingface/Datasets`. `PARARULE-Plus` includes the datasets from all four different depths and the other datasets only include the dataset corresponding to each depth. For example, `PARARULE-Plus-Depth-2` only includes the datasets with 2 reasoning depths.  Here is an example to load the PARARULE-Plus with all reasoning depths.
 ### 🤗 Install the datasets
 ```
 pip install datasets

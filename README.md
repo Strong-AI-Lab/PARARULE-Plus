@@ -4,7 +4,7 @@ PARARULE Plus is a deep multi-step reasoning dataset over natural language. It c
 
 We published the PARARULE Plus dataset to the paper [Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation](https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2022/paper15.pdf). The code and experiment in this paper can be found in that [GitHub link](https://github.com/Strong-AI-Lab/Multi-Step-Deductive-Reasoning-Over-Natural-Language). [PARARULE-Plus](https://github.com/Strong-AI-Lab/PARARULE-Plus) has also been collected by [LogiTorch](https://www.logitorch.ai/) which is a PyTorch-based library for logical reasoning on natural language.
 
-You can use Huggingdace/Datasets to load the PARARULE-Plus dataset from this [link](https://huggingface.co/datasets/qbao775/PARARULE-Plus). Here is the way to load hte dataset.
+You can use `Huggingdace/Datasets` to load the PARARULE-Plus dataset from this [link](https://huggingface.co/datasets/qbao775/PARARULE-Plus). Here is the way to load hte dataset.
 ```
 from datasets import load_dataset
 dataset = load_dataset("qbao775/PARARULE-Plus")

@@ -24,7 +24,7 @@ from datasets import load_dataset
 dataset = load_dataset("qbao775/PARARULE-Plus")  ## You can use "qbao775/PARARULE-Plus-Depth-2", "qbao775/PARARULE-Plus-Depth-3", "qbao775/PARARULE-Plus-Depth-4", and "qbao775/PARARULE-Plus-Depth-5" to load datasets from different reasoning depths.
 ```
 
-### An example script to load PARARULE-Plus and fine-tune BERT
+### 🤗 An example script to load PARARULE-Plus and fine-tune BERT
 ```
 python run_glue_no_trainer.py \
   --model_name_or_path bert-base-cased \

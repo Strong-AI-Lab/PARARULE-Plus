@@ -16,7 +16,7 @@ from datasets import load_dataset
 dataset = load_dataset("qbao775/PARARULE-Plus")
 ```
 
-# Dataset Description
+## Dataset Description
 ## Animals
 `Animal Entities` ['the bald eagle', 'the tiger', 'the bear', 'the lion', 'the wolf', 'the crocodile', 'the dinosaur', 'the snake', 'the leopard']
 

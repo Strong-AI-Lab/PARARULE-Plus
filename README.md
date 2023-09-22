@@ -181,7 +181,7 @@ The `QCat=0_0_true_trueNot_true_true_true` means the question is generated from 
  
  `shuffle_data.py` - The generated data is shuffled by this scripts.
 
-## Citation
+## <a href="https://ceur-ws.org/Vol-3212/"><img src="./nesy.png" alt="Star Icon" width="30" /></a> Citation
 ```
 @inproceedings{bao2022multi,
   title={Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation},

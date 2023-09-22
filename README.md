@@ -186,8 +186,11 @@ The `QCat=0_0_true_trueNot_true_true_true` means the question is generated from 
 @inproceedings{bao2022multi,
   title={Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation},
   author={Qiming Bao and Alex Yuxuan Peng and Tim Hartill and Neset Tan and Zhenyun Deng and Michael Witbrock and Jiamou Liu},
+  booktitle={Proceedings of the 16th International Workshop on Neural-Symbolic Learning and Reasoning as part of the 2nd International Joint Conference on Learning \& Reasoning (IJCLR 2022)},
+  pages={202-217},
+  month=sep,
   year={2022},
-  publisher={The 2nd International Joint Conference on Learning and Reasoning and 16th International Workshop on Neural-Symbolic Learning and Reasoning (IJCLR-NeSy 2022)}
+  address={Cumberland Lodge, Windsor Great Park, United Kingdom},
 }
 ```
 
